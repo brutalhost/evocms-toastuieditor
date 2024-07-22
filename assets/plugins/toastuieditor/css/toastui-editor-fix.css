@@ -1,0 +1,11 @@
+.toastui-editor-defaultUI h1 {
+    padding: 0.8rem 0;
+}
+
+.toastui-editor-defaultUI .toastui-editor-toolbar-icons {
+    background-color: unset;
+}
+
+.toastui-editor-defaultUI .toastui-editor-main {
+    background-color: #fff;
+}
