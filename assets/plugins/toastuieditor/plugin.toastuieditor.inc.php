@@ -51,6 +51,7 @@ switch ($e->name) {
                                 initialEditType: params['initialEditType'],
                                 previewStyle: params['previewStyle'],
                                 initialValue: textarea.value,
+                                useCommandShortcut: false,
                             });
 
                             initializeImagePickerEvents(editor);
